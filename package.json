@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/danielamaia/snyk-test#readme",
   "dependencies": {
+    "bower": "^1.8.4",
     "brew": "0.0.8",
     "browserify": "^16.2.3",
     "grunt": "^1.0.3",
+    "gulp": "^3.9.1",
     "lodash": "^4.17.11",
     "react": "^16.6.0",
     "react-dom": "^16.6.0"
